@@ -3,8 +3,6 @@
 ## 🔥 Nedir?
 Belirlediğiniz şikayet nedeni ile bir hesabp için instagrama şikayet isteği atmanızı sağlayan bir programdır.
 
-**Programın videolarını çektiği için Akif kardeşime teşekkür ediyorum!**
-
 ![Screenshot](https://github.com/tarik0/instaspamv2/blob/master/ss.png)
 
  ## 💻 Kurulum
